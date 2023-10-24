@@ -1,4 +1,4 @@
-package com.roynaldi19.bfaa07_04datastore
+package com.roynaldi19.dc3_07datastore
 
 import org.junit.Test
 
